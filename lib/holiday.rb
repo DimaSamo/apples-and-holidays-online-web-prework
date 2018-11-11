@@ -77,7 +77,6 @@ def all_holidays_with_bbq(holiday_hash)
         ret_array.push(holiday)
       end
     end
-    ret_array
   end
-
+    ret_array
 end
